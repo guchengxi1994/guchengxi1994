@@ -3,7 +3,7 @@
 ### I am XiaoShuYuI. I'm Interested in everything but having a bad memory.
 
 
-- 🔭 I’m currently working on ?
+- 🔭 I’m currently working on finding another video game
 - 🌱 I’m currently learning rust
 - 💬 Ask me about Dark Souls,Bloodborne,Sekiro or Elden Ring
 - 📫 How to reach me: by email guchengxi1994@qq.com
