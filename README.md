@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**guchengxi1994/guchengxi1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am XiaoShuYuI. I'm Interested in everything but having a bad memory.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ?
+- 🌱 I’m currently learning rust
+- 💬 Ask me about Dark Souls,Bloodborne,Sekiro or Elden Ring
+- 📫 How to reach me: by email guchengxi1994@qq.com
+- ⚡ Fun fact: I think Bloodborne is better than Elden Ring
+
+## Github Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guchengxi1994&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guchengxi1994&layout=compact)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=guchengxi1994)
