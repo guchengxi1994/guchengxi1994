@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on finding another video game
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning rust and three.js
 - 💬 Ask me about Dark Souls,Bloodborne,Sekiro or Elden Ring
 - 📫 How to reach me: by email guchengxi1994@qq.com
 - ⚡ Fun fact: I think Bloodborne is better than Elden Ring
