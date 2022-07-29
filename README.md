@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am XiaoShuYuI. I'm Interested in everything but having a bad memory.
+### I am XiaoShuYuI. I'm Interested in everything.
 
 
 - 🔭 I’m currently working on finding another video game
